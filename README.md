@@ -9,6 +9,7 @@ Welcome to the Health Management App! This application provides an all-in-one so
    - Navigate to the "Medical Chatbot" section in the sidebar.
    - Type your question into the input box and click Ask the question.
    - Get real-time responses from the chatbot.
+     
 **2. Vital Image Analysis**
 **Functionality:** Analyze medical images to identify anomalies, diseases, or health issues.
 **How to Use:**
@@ -19,6 +20,7 @@ Welcome to the Health Management App! This application provides an all-in-one so
    2. Findings Report
    3. Recommendations
    4. Treatment Suggestions
+      
 **3. Calorie Calculator**
 **Functionality:** Analyze food images to calculate total calories and assess the healthiness of meals.
 **How to Use:**
