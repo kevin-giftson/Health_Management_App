@@ -60,3 +60,4 @@ streamlit run app.py
 ```
 ---
 ## Example Screenshots
+1. ![chatbot](example_screenshot/2.png)
