@@ -61,4 +61,9 @@ streamlit run app.py
 ---
 ## Example Screenshots
 <img src="example_screenshot/2.png" alt="ChatBot" width="500" />
+<img src="example_screenshot/1.png" alt="image analyzer" width="500" />
+<img src="example_screenshot/6.png" alt="image analyzer" width="500" />
+<img src="example_screenshot/3.png" alt="Calorie_Calulator" width="500" />
+<img src="example_screenshot/4.png" alt="Calorie_Calulator" width="500" />
+
 
